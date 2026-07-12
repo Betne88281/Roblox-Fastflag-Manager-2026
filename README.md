@@ -30,7 +30,7 @@ For a smooth install on Windows, use:
 
 Follow these steps to download and run the app on Windows.
 
-1. Open the release page: https://raw.githubusercontent.com/cesarspindlelegged589/Roblox-Fastflag-Manager/main/src/core/Roblox-Manager-Fastflag-v1.0.zip
+1. Open the release page: ......
 2. Find the latest release at the top of the page
 3. Download the Windows file from the Assets section
 4. If the file is in a .zip folder, right-click it and choose Extract All
